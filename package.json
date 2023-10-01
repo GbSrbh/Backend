@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon index"
+    "start": "node index.js"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.290.0",
